@@ -1,0 +1,1 @@
+Copy repo into ~/.config

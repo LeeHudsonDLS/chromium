@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow directories (needed to reach the file)
+!*/
+
+# But not this file
+!Default/Bookmarks
+!README.md
+!.gitignore
