@@ -1,10 +1,10 @@
 {
-   "checksum": "228adc0d432beab6bd117f3e1f083ee5",
+   "checksum": "a5cfdc4370bc2ca9a3b6f9f19b860931",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13391850900589497",
-            "date_last_used": "13424876834565855",
+            "date_last_used": "13425654793465524",
             "guid": "d13586ef-559c-48e0-ac08-6580cc35e6f7",
             "id": "5",
             "meta_info": {
@@ -15,7 +15,7 @@
             "url": "https://confluence.diamond.ac.uk/display/CNTRLS/Accelerator+Systems+Information"
          }, {
             "date_added": "13391850941205760",
-            "date_last_used": "13424947300090045",
+            "date_last_used": "13425654527872241",
             "guid": "2d071eeb-f70b-4550-86b3-fe5e766c5c59",
             "id": "6",
             "meta_info": {
@@ -26,7 +26,7 @@
             "url": "https://confluence.diamond.ac.uk/pages/viewpage.action?pageId=70651926"
          }, {
             "date_added": "13391851295487155",
-            "date_last_used": "13424776124423229",
+            "date_last_used": "13425658757831913",
             "guid": "d39f4ea9-2768-4ae7-982d-b71017521b4a",
             "id": "8",
             "meta_info": {
@@ -81,7 +81,7 @@
             "url": "http://www.cs.diamond.ac.uk/reports/iocmods.html"
          }, {
             "date_added": "13401784460006702",
-            "date_last_used": "13423230186614719",
+            "date_last_used": "13425546303709031",
             "guid": "7867ee35-9960-4f85-9f19-f6282ca2a4b2",
             "id": "27",
             "meta_info": {
@@ -103,7 +103,7 @@
             "url": "https://confluence.diamond.ac.uk/display/CNTRLS/IP+Address"
          }, {
             "date_added": "13409657531779630",
-            "date_last_used": "13425038699760621",
+            "date_last_used": "13425723846867956",
             "guid": "be47fc17-82dc-4505-8a8c-bdd52bf176cb",
             "id": "37",
             "meta_info": {
@@ -114,7 +114,7 @@
             "url": "https://graylog.diamond.ac.uk/search/68b837590236942c70cfdf96?q=pod_name%3Afe03i-cs-ioc-01%2A+AND+iocInit&rangetype=relative&from=4320000"
          }, {
             "date_added": "13413392063528666",
-            "date_last_used": "13425120623111056",
+            "date_last_used": "13425654242628414",
             "guid": "e7a7466f-81cb-4ddb-aeef-f79516c04bd9",
             "id": "41",
             "meta_info": {
@@ -136,7 +136,7 @@
             "url": "https://dev-guide.diamond.ac.uk/epics-containers/"
          }, {
             "date_added": "13424863529657822",
-            "date_last_used": "13425048562924388",
+            "date_last_used": "13425723195343355",
             "guid": "32c45454-a707-481b-aefa-04229d21eb85",
             "id": "45",
             "meta_info": {
@@ -145,10 +145,21 @@
             "name": "appliance archiver - Home",
             "type": "url",
             "url": "https://archappl.diamond.ac.uk/mgmt/ui/index.html"
+         }, {
+            "date_added": "13425466248645796",
+            "date_last_used": "13425658374730226",
+            "guid": "d4cd5b63-5c54-4d4d-b5b6-7728c87943be",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "accelerator",
+            "type": "url",
+            "url": "https://gitlab.diamond.ac.uk/controls/containers/accelerator"
          } ],
          "date_added": "13391850520251470",
          "date_last_used": "0",
-         "date_modified": "13424863529657822",
+         "date_modified": "13425466248645796",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",
